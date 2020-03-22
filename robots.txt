@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giexohofi.lucienxian.top/sitemap.xml
